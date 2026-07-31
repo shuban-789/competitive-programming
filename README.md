@@ -1,1 +1,1 @@
-This repo just documents my solutions for personal reference. I haven't done much competitive programming till now despite my programming background so most of these probllems will start out as easy ones. Problems followed from usaco guide for now.
+This repo just documents my solutions for personal reference. I haven't done much competitive programming till now despite my programming background, so most of these problems will start out easy. Problems followed from usaco guide for now.
