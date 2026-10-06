@@ -1,12 +1,11 @@
 #include <bits/stdc++.h>
 
 using namespace std;
+using ll = long long;
+using ld = long double;
 
 template <typename T>
 using vec = vector<T>;
-
-using ll = long long;
-using ld = long double;
 
 template <typename... T>
 void in(T&... args) {
